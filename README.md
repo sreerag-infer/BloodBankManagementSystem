@@ -49,3 +49,23 @@ The source code is located in the `src/main/java/` directory. The UI components 
 
 ## License
 [Specify License Here]
+
+## Screenshots
+
+### Login Screen
+![Login Screen](screenshots/login.png)
+
+### Dashboard
+![Dashboard](screenshots/dashboard.png)
+
+### Donor Management
+![Donor](screenshots/donor.png)
+
+### Patient Management
+![Patient](screenshots/patient.png)
+
+### Blood Stock
+![Stock](screenshots/stock.png)
+
+### Request Module
+![Request](screenshots/request.png)
